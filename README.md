@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dopefoxes
 - 👀 I’m interested in Rugged Solana NFTs
-- 🌱 I’m currently learning React.JS, Node.JS, Sugar, Rust, 
+- 🌱 I’m currently developing on React.JS, Node.JS, Rust 
 - 💞️ I’m looking to collaborate on Rugged Solana NFT projects
 - 📫 How to reach me info@dopefoxes.co
