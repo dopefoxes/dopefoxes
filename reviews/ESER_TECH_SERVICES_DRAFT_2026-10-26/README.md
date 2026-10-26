@@ -74,3 +74,7 @@ Do not add unsupported agency case studies, guaranteed revenue, special vendor a
 - [This GitHub review folder](https://github.com/dopefoxes/dopefoxes/tree/main/reviews/ESER_TECH_SERVICES_DRAFT_2026-10-26) is public and requires no GitHub login to view.
 
 **Status: substantial initial drafting staged across all 24 pages, but target NOT completed.**
+
+## Goldmine free/open-source and GitHub review register
+
+- [Review 35 researched software technologies and 79 Aman source-linked GitHub entries](./RESOURCE_GOLDMINE_TOOLS_AND_GITHUB_RESEARCH.md). The repository list is a provenance catalog, not verified production licensing or software installation.
