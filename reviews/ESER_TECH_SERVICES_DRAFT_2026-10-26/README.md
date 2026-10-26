@@ -1,79 +1,75 @@
-# ESER TECH — 24 Services: 20,000+ Word Draft Verification
+# ESER TECH — All 24 Services word-count and research audit
 
-**Review snapshot: 26 October 2026.** This is an open, no-login **progress and editorial-QA report**, not publication of confidential draft page contents.
+**Checkpoint: 26 October 2026 · Draft change request #3 · Live production GitBook unchanged**
 
-**Current result:** All 24 canonical GitBook Services pages exceed 20,000 whitespace-separated words in the **unmerged GitBook change request #3** (`M27QxmEsYt2OW8h44iIU`). Every page was independently read back from the stored GitBook draft after editing; 24/24 pages retained their original page IDs and all 24 canonical chapter headings.
+The previous version of this index reported **0/24 pages above 20,000 words**. That result is obsolete: GitBook draft revision `M27QxmEsYt2OW8h44iIU` has since been expanded, and every page was **individually re-read from the change-request branch**. All 24 now exceed 20,000 Markdown whitespace-delimited words and retain their 24 canonical chapter headings. The 24 historic GitBook page IDs have not changed.
 
-- **Total drafted across the 24 pages:** 692,967 whitespace-separated words.
-- **After exact duplicate-long-paragraph suppression:** 609,878 counted words across pages (computed independently per page; NOT a semantic originality, plagiarism, or source-truth guarantee).
-- **Pages meeting 20,000 on both measures:** 24/24.
-- **Smallest saved page word count:** 26,508 words.
-- **Smallest count after paragraph deduplication:** 23,058 words.
-- **Live public GitBook updated?** **NO.** All substantive changes are in an unpublished GitBook change request.
-- **Published/final founder approval?** **NO.** Source-by-source relevance review, live-license checking, editorial de-duplication and owner signoff remain separate completion gates.
+## Verified draft completion metrics
 
-## 24 individually saved pages
+| Requirement | Current verified value | Editorial interpretation |
+|---|---:|---|
+| Service pages preserved | **24/24** | IDs and chapter hierarchy intact |
+| Pages >20,000 raw words | **24/24** | Length gate reached on draft, not on live publication |
+| Combined draft text | **692,967 words** | White-space Markdown token count, before repetition correction |
+| Required overall minimum | 480,000 | More than threshold achieved in aggregate **and individually** |
+| Shortest draft page | **26,508 words** | Service 22; above 20,000 |
+| Longest draft page | **44,481 words** | Service 01 |
+| Pages checked for 24 canonical headings | **24/24** | Passed heading-count gate |
+| GitBook merge / live publication | **Not performed** | Founder signoff and editorial QA remain open |
+| Confirmed complete source-by-source Goldmine incorporation | **Not certified** | The source corpora have unmatched aliases, licensing and review gaps |
 
-| # | Canonical service | Draft words | Words after identical-paragraph suppression | Target |
-|---:|---|---:|---:|---|
-| 01 | Website, E-commerce & Digital Experience Development | 44,481 | 42,687 | **PASS** |
-| 02 | Custom Software, SaaS & AI Application Development | 40,654 | 38,324 | **PASS** |
-| 03 | UI/UX Design, Product Design & Branding | 29,464 | 25,323 | **PASS** |
-| 04 | Cloud Infrastructure, API & Managed Technical Services | 28,748 | 24,607 | **PASS** |
-| 05 | Digital Marketing, Social Media & Community Growth | 28,427 | 24,839 | **PASS** |
-| 06 | Video Production, Creative Content & Digital Advertising | 27,953 | 24,365 | **PASS** |
-| 07 | SEO, AEO & AI Search Visibility Optimization | 27,554 | 23,698 | **PASS** |
-| 08 | Lead Generation, Prospecting & Outbound Growth | 26,657 | 23,417 | **PASS** |
-| 09 | CRM Implementation, Sales Operations & Revenue Management | 27,101 | 23,308 | **PASS** |
-| 10 | Email Marketing, Lifecycle Automation & Customer Retention | 26,907 | 23,114 | **PASS** |
-| 11 | Affiliate, Referral & Partnership Marketing | 26,851 | 23,058 | **PASS** |
-| 12 | Sales Funnels, Landing Pages & Conversion Optimization | 27,181 | 23,318 | **PASS** |
-| 13 | AI Voice Agents, Business Calling & Contact Center Automation | 30,991 | 27,866 | **PASS** |
-| 14 | Customer Support, Live Chat & Helpdesk Management | 27,100 | 23,352 | **PASS** |
-| 15 | Online Reputation, Reviews & Customer Loyalty Management | 26,861 | 23,113 | **PASS** |
-| 16 | Appointment Scheduling, Booking & Client Onboarding Systems | 27,075 | 23,327 | **PASS** |
-| 17 | AI Agents, Chatbots & Business Copilot Solutions | 27,020 | 23,272 | **PASS** |
-| 18 | Business Process Automation, Workflow & API Integration | 30,906 | 27,781 | **PASS** |
-| 19 | Data Analytics, Reporting & Business Intelligence | 26,796 | 23,422 | **PASS** |
-| 20 | Data Engineering, Enrichment & Customer Intelligence | 26,859 | 23,547 | **PASS** |
-| 21 | Knowledge Management, Documentation & AI Search Systems | 27,053 | 23,762 | **PASS** |
-| 22 | Project Management Systems & Operational Transformation | 26,508 | 23,140 | **PASS** |
-| 23 | Finance Operations, Invoicing & Payment Automation | 27,094 | 23,804 | **PASS** |
-| 24 | Document Management, E-Signatures & Contract Automation | 26,726 | 23,434 | **PASS** |
+### Service-by-service read-back
 
-The **distinct-paragraph count** omits later identical copies of a paragraph only when the paragraph is longer than 100 characters; shorter labels/headings remain in the count. It does *not* prove every passage is useful, factually verified or original in meaning. Repeated generic delivery procedures remain subject to editorial cleanup. Actual implementation, customer case studies, commercial rights, rates and tested QA have not been invented to reach the word limit.
+| # | Service | Verified draft words | Over 20K | Public research appendix from earlier drafting stage |
+|---:|---|---:|---|---|
+| 01 | Website, E-commerce & Digital Experience Development | 44,481 | Yes | [earlier research annex](./Service_01_RESEARCH_ANNEX.md) |
+| 02 | Custom Software, SaaS & AI Application Development | 40,654 | Yes | [earlier research annex](./Service_02_RESEARCH_ANNEX.md) |
+| 03 | UI/UX Design, Product Design & Branding | 29,464 | Yes | [earlier research annex](./Service_03_RESEARCH_ANNEX.md) |
+| 04 | Cloud Infrastructure, API & Managed Technical Services | 28,748 | Yes | [earlier research annex](./Service_04_RESEARCH_ANNEX.md) |
+| 05 | Digital Marketing, Social Media & Community Growth | 28,427 | Yes | [earlier research annex](./Service_05_RESEARCH_ANNEX.md) |
+| 06 | Video Production, Creative Content & Digital Advertising | 27,953 | Yes | [earlier research annex](./Service_06_RESEARCH_ANNEX.md) |
+| 07 | SEO, AEO & AI Search Visibility Optimization | 27,554 | Yes | [earlier research annex](./Service_07_RESEARCH_ANNEX.md) |
+| 08 | Lead Generation, Prospecting & Outbound Growth | 26,657 | Yes | [earlier research annex](./Service_08_RESEARCH_ANNEX.md) |
+| 09 | CRM Implementation, Sales Operations & Revenue Management | 27,101 | Yes | [earlier research annex](./Service_09_RESEARCH_ANNEX.md) |
+| 10 | Email Marketing, Lifecycle Automation & Customer Retention | 26,907 | Yes | [earlier research annex](./Service_10_RESEARCH_ANNEX.md) |
+| 11 | Affiliate, Referral & Partnership Marketing | 26,851 | Yes | [earlier research annex](./Service_11_RESEARCH_ANNEX.md) |
+| 12 | Sales Funnels, Landing Pages & Conversion Optimization | 27,181 | Yes | [earlier research annex](./Service_12_RESEARCH_ANNEX.md) |
+| 13 | AI Voice Agents, Business Calling & Contact Center Automation | 30,991 | Yes | [earlier research annex](./Service_13_RESEARCH_ANNEX.md) |
+| 14 | Customer Support, Live Chat & Helpdesk Management | 27,100 | Yes | [earlier research annex](./Service_14_RESEARCH_ANNEX.md) |
+| 15 | Online Reputation, Reviews & Customer Loyalty Management | 26,861 | Yes | [earlier research annex](./Service_15_RESEARCH_ANNEX.md) |
+| 16 | Appointment Scheduling, Booking & Client Onboarding Systems | 27,075 | Yes | [earlier research annex](./Service_16_RESEARCH_ANNEX.md) |
+| 17 | AI Agents, Chatbots & Business Copilot Solutions | 27,020 | Yes | [earlier research annex](./Service_17_RESEARCH_ANNEX.md) |
+| 18 | Business Process Automation, Workflow & API Integration | 30,906 | Yes | [earlier research annex](./Service_18_RESEARCH_ANNEX.md) |
+| 19 | Data Analytics, Reporting & Business Intelligence | 26,796 | Yes | [earlier research annex](./Service_19_RESEARCH_ANNEX.md) |
+| 20 | Data Engineering, Enrichment & Customer Intelligence | 26,859 | Yes | [earlier research annex](./Service_20_RESEARCH_ANNEX.md) |
+| 21 | Knowledge Management, Documentation & AI Search Systems | 27,053 | Yes | [earlier research annex](./Service_21_RESEARCH_ANNEX.md) |
+| 22 | Project Management Systems & Operational Transformation | 26,508 | Yes | [earlier research annex](./Service_22_RESEARCH_ANNEX.md) |
+| 23 | Finance Operations, Invoicing & Payment Automation | 27,094 | Yes | [earlier research annex](./Service_23_RESEARCH_ANNEX.md) |
+| 24 | Document Management, E-Signatures & Contract Automation | 26,726 | Yes | [earlier research annex](./Service_24_RESEARCH_ANNEX.md) |
 
-## What was added
+**Important:** The linked appendix files are **earlier research-only supplements**, *not* standalone copies of the complete new 26K–44K word GitBook draft pages. The full expanded text is in GitBook change request #3, still unpublished.
 
-Under selected existing chapters, each service now has in-depth proposed work packages for the existing eight subservices, with target-customer qualification, scoped deliverables, billable units, workflow steps, data contracts, technical architectures, vendor/FOSS alternatives, legal and rights controls, KPIs, negative-path tests, and source-evidence boundaries. The business model preserves **professional service engagements first** and **future ESER SaaS as separate products**, with founder approval remaining required for commercial promises.
+## Cross-PC and external-drive research evidence
 
-This creates a detailed **design and operational playbook**, not a statement that the owner has delivered all described integrations or that unexecuted QA is complete.
+Both AMAN PC and DOPEFOX PC were online and inspected read-only. The mounted DOPEFOX external drives include `DOPEFOX`, `DEADPOOL` and the active `DOPEFOX1` research workspace. The active DOPEFOX corpus contains **3,800 video registry rows / 3,799 distinct underlying media IDs**, **731 observation rows**, and **48 software-tool catalog entries**. The checkpoint report's 201 substantive strict studies is a point-in-time number; later master-export tier classifications total 225 in Tier-1/5/6 labels, illustrating active/concurrent updates and the necessity of reconciling reported *classification* versus content verification before certifying either value.
 
-## Resource Goldmine — latest direct-read snapshot (dynamic, not yet frozen)
+The AMAN archive previously contained **725 historical source videos and 290 additional local clips**, with the additional 290 not yet consolidated into the V6 media identity system. **118 verification statuses** remain contradictory between its October 18 register and individual dossier labels. Its **1,684-URL source register** includes source video URLs, GitHub references, social profiles and other URLs — not 1,684 production-ready software tools.
 
-The two PCs are online. The research continues concurrently on DOPEFOX; values below are a read-only point-in-time observation, not immutable certification.
+The external-drive archival Hermes automation toolkit includes **93 tool/reference entries and a 63-video inventory**. Some entries are docs or links, and its backup files overlap already cataloged sources; do not add these rows blindly to the 3,800 video, 48 tool or 1,684 URL counts. An exhaustive binary-level deduplication and individual video technique reproduction was **not** completed here.
 
-- **DOPEFOX PC master SQLite:** integrity check `ok`, zero foreign-key errors; **3,800 video registry rows**, **3,799 underlying media IDs**, **731 broad observation rows**, **48 software-resource entries**, **20 topic entries**. During this audit, the database had **806 audit event entries** and **68 JSON study files**. The current tier labels consisted of 101 historical strict, 86 new substantive deep, 34 local dossier, and 4 live-browser — **225 rows in strict-tier categories at that instant**. Their classification requires underlying study/evidence QA; do not equate labels with independently certified reproduction.
-- **AMAN PC historical and newly downloaded:** **1,015 unified video register records** (725 original historic + 290 newer); 290 additional MP4s present in its documented batch. The 290-video identity merge and inconsistent status flags should remain a separate reconciliation gate.
-- **AMAN resource catalog:** **1,684 URL rows**; **79 rows labelled GitHub repository**, of which some are user profiles or gists. Of 1,684, 866 carried historical `VERIFIED_OK` reachability labels, 695 NOT_CHECKED, and the remainder blocked/error; URL accessibility is not an audited license or product.
-- **DOPEFOX external HDD:** read-only inventory located an older Hermes automation archive with **93 tool/reference rows** and a **63-video inventory**, plus copied historical 725-media files in backup archives. These 93 and 63 cannot be added to unique totals without checking overlap, content rights and the difference between tools, documentation links, and installed software.
-- **Goldmine tools:** the 48-entry database catalog supersedes earlier 15-entry and 35-entry snapshots for current counts, but neither remote research reports nor an open-source license are client-production approvals.
+- [**DOPEFOX 48 software entries + external-HDD 93 references (complete sourced entry tables)**](./RESOURCE_GOLDMINE_V6_TOOLS_AND_HDD_REFS_2026-10-26.md)
+- [Earlier AMAN 79 GitHub-linked references + prior DOPEFOX 35-tool catalog](./RESOURCE_GOLDMINE_TOOLS_AND_GITHUB_RESEARCH.md) — **historical source catalog, superseded on software counts**
+- [Previous cross-PC 290-video identity reconciliation](../ESER_TECH_VIDEO_EVIDENCE_RECONCILIATION_2026-10-26.md) — some audit counts have since advanced
 
-### Research and publication gates still open
+## Mandatory substantive-quality and founder approval holds
 
-1. Independently check source relevance, identity, current software licensing, permission and safe commercial reuse for proposed integrations; a creator's social-video earnings claim remains merely a claim.
-2. Resolve the separate 290 AMAN-video mismatch and 118 conflicting verification flags, and account for moving DOPEFOX research totals.
-3. Editorially inspect repeated technical and commercial prose, source attribution, links, accessibility and original 24-chapter meaning; make concrete corrections instead of adding more generic words.
-4. Confirm the founder-approved sales/pricing method, real staffing capacity, user account ownership, legal/finance advisory limits, and any public-facing delivery claims.
-5. **Only after founder approval** merge GitBook draft change request #3 and re-read the published site.
+1. **Repetition risk.** An automated within-page repeated-eight-token-sequence diagnostic found roughly **52%–64% repeated-sequence participation** in the drafts. This is a coarse repetition indicator, not a plagiarism score, but it shows why *raw word count alone cannot certify 20,000 unique, useful, nonduplicative words*. The drafts need section-level editorial refinement and the removal of duplicate generic material.
+2. **Source depth.** Metadata queue titles, creator claims and archived links must not be asserted as independently reproduced demonstrations. Some of the 24 services have sparse direct video evidence. Tool selection must tie to a real service requirement, license, implementation status and acceptance test.
+3. **Rights and pricing.** Commercial software reuse, SaaS white-label rights, 3D/video assets and AI API charges require current upstream checks. The five-comparable-professional-service-seller methodology and final fees are not certified across all 24 pages.
+4. **Founder and publication gate.** Each page's Chapter 24 retains the founder acceptance gate. Do not merge a 24-page batch merely because each file has crossed 20K words. Release only after duplicated content, factual conflicts, source evidence, service feasibility, prices, legal/security dependencies and approved client-facing promises have been resolved.
 
-**The 20,000-word numerical target is satisfied across all 24 saved draft pages. The final production-publication and evidence-substantiation gates are NOT satisfied.**
+## Editorial status
 
-## Links
+**RAW WORD COUNT: PASS (24/24). STRUCTURE: PASS (24/24). SUBSTANTIVE QA: NOT APPROVED. SOURCE EXHAUSTIVENESS: NOT CERTIFIED. LIVE PUBLICATION: NOT PERFORMED.**
 
-- [Existing public ESER TECH GitBook](https://eser-tech.gitbook.io/eser-tech-locked-business-plan/) — production version unchanged; it does not yet display these additions.
-- [Earlier compact public annex collection](https://github.com/dopefoxes/dopefoxes/tree/main/reviews/ESER_TECH_SERVICES_DRAFT_2026-10-26) — initial source-linked appendices, *not* the complete newly expanded pages.
-- [Cross-PC source reconciliation review](../ESER_TECH_VIDEO_EVIDENCE_RECONCILIATION_2026-10-26.md) — older snapshot; latest counts above supersede its strict-tier numbers.
-- [Resource Goldmine tools/GitHub source register](./RESOURCE_GOLDMINE_TOOLS_AND_GITHUB_RESEARCH.md) — older 35-tool/79-GitHub batch with research-only limits; live DB now catalogs 48 software entries.
-
-**GitBook page identity and production URLs are intentionally preserved. No remote research sources, active computer processes, or unrelated GitBook spaces were modified.**
+No original PC research files were changed by this review. Existing GitBook pages were updated only within the unmerged, editable draft change request #3.
